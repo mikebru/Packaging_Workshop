@@ -1361,3 +1361,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.26-20.04.57:302][800]LogSavePackage: Moving '../../../../../Github/Packaging_Workshop/NDisplay/Saved/NDisplayDE79A18447EE91350801818F4AF92602.tmp' to '../../../../../Github/Packaging_Workshop/NDisplay/Content/Maps/NDisplay.umap'
 [2021.08.26-20.04.57:320][800]AssetCheck: New page: Asset Save: NDisplay
 [2021.08.26-20.04.57:320][800]LogContentValidation: Display: Validating World /Game/Maps/NDisplay.NDisplay
+[2021.08.26-20.08.57:260][846]LogEditorViewport: Clicking on Component (LMB): DisplayClusterXformComponent (nDisplayXform)
+[2021.08.26-20.09.46:871][278]LogDisplayClusterConfiguration: Configuration data has been successfully saved to file: ../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualMonitor_Custom.ndisplay
+[2021.08.26-20.09.46:872][278]DisplayClusterConfiguratorLog: Successfully exported config with the path: ../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualMonitor_Custom.ndisplay
+[2021.08.26-20.09.48:721][383]LogDisplayClusterConfiguration: Configuration data has been successfully saved to file: ../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualMonitor_Custom.ndisplay
+[2021.08.26-20.09.48:721][383]DisplayClusterConfiguratorLog: Successfully exported config with the path: ../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualMonitor_Custom.ndisplay
+[2021.08.26-20.09.48:752][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleConfigs/NDC_DualPC_Custom" FILE="../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualPC_Custom.uasset" SILENT=true
+[2021.08.26-20.09.48:760][383]LogSavePackage: Moving '../../../../../Github/Packaging_Workshop/NDisplay/Saved/NDC_DualPC_Custom489B2DA34F64F840E0BDB6AD3CF1962F.tmp' to '../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualPC_Custom.uasset'
+[2021.08.26-20.09.48:775][383]AssetCheck: New page: Asset Save: NDC_DualPC_Custom
+[2021.08.26-20.09.48:775][383]LogContentValidation: Display: Validating DisplayClusterBlueprint /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom
