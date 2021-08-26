@@ -148,6 +148,27 @@
 						"yaw": -90,
 						"roll": 0
 					}
+				},
+				"nDisplayScreen-Host3":
+				{
+					"size":
+					{
+						"width": 43.180000305175781,
+						"height": 24.288749694824219
+					},
+					"parentId": "nDisplayTransform-Host2",
+					"location":
+					{
+						"x": 57,
+						"y": 3.5762791412707884e-06,
+						"z": 0
+					},
+					"rotation":
+					{
+						"pitch": 0,
+						"yaw": -90,
+						"roll": 0
+					}
 				}
 			}
 		},
@@ -273,7 +294,7 @@
 					{
 						"x": 0,
 						"y": 0,
-						"w": 3840,
+						"w": 5440,
 						"h": 2160
 					},
 					"postprocess":
@@ -301,6 +322,29 @@
 								"parameters":
 								{
 									"screen": "nDisplayScreen-Host2"
+								}
+							}
+						},
+						"VP_1":
+						{
+							"camera": "DefaultViewPoint",
+							"bufferRatio": 1,
+							"gPUIndex": -1,
+							"allowCrossGPUTransfer": false,
+							"isShared": false,
+							"region":
+							{
+								"x": 3840,
+								"y": 592,
+								"w": 1600,
+								"h": 900
+							},
+							"projectionPolicy":
+							{
+								"type": "simple",
+								"parameters":
+								{
+									"screen": "nDisplayScreen-Host3"
 								}
 							}
 						}
