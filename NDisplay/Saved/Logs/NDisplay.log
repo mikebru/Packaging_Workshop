@@ -1370,3 +1370,51 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.26-20.09.48:760][383]LogSavePackage: Moving '../../../../../Github/Packaging_Workshop/NDisplay/Saved/NDC_DualPC_Custom489B2DA34F64F840E0BDB6AD3CF1962F.tmp' to '../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualPC_Custom.uasset'
 [2021.08.26-20.09.48:775][383]AssetCheck: New page: Asset Save: NDC_DualPC_Custom
 [2021.08.26-20.09.48:775][383]LogContentValidation: Display: Validating DisplayClusterBlueprint /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom
+[2021.08.26-20.13.54:793][658]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_1
+[2021.08.26-20.13.54:793][658]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_1
+[2021.08.26-20.13.54:793][658]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_1
+[2021.08.26-20.14.21:713][589]BlueprintLog: New page: Compile NDC_DualPC_Custom
+[2021.08.26-20.14.21:793][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.08.26-20.14.21:803][589]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_Left'
+[2021.08.26-20.14.21:803][589]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_Right'
+[2021.08.26-20.14.21:803][589]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0'
+[2021.08.26-20.14.21:803][589]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_1'
+[2021.08.26-20.14.21:805][589]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_Left'
+[2021.08.26-20.14.21:805][589]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_Right'
+[2021.08.26-20.14.21:805][589]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0'
+[2021.08.26-20.14.21:805][589]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_1'
+[2021.08.26-20.14.21:822][589]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_Left'
+[2021.08.26-20.14.21:822][589]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_Left
+[2021.08.26-20.14.21:822][589]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_Right'
+[2021.08.26-20.14.21:822][589]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_Right
+[2021.08.26-20.14.21:822][589]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0'
+[2021.08.26-20.14.21:822][589]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0
+[2021.08.26-20.14.21:822][589]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_1'
+[2021.08.26-20.14.21:822][589]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_1
+[2021.08.26-20.14.21:822][589]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_Left'
+[2021.08.26-20.14.21:822][589]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_Left
+[2021.08.26-20.14.21:822][589]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_Right'
+[2021.08.26-20.14.21:822][589]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_Right
+[2021.08.26-20.14.21:822][589]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0'
+[2021.08.26-20.14.21:822][589]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0
+[2021.08.26-20.14.21:822][589]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_1'
+[2021.08.26-20.14.21:822][589]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_1
+[2021.08.26-20.14.22:530][640]LogDisplayClusterConfiguration: Configuration data has been successfully saved to file: ../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualMonitor_Custom.ndisplay
+[2021.08.26-20.14.22:531][640]DisplayClusterConfiguratorLog: Successfully exported config with the path: ../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualMonitor_Custom.ndisplay
+[2021.08.26-20.14.22:553][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleConfigs/NDC_DualPC_Custom" FILE="../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualPC_Custom.uasset" SILENT=true
+[2021.08.26-20.14.22:560][640]LogSavePackage: Moving '../../../../../Github/Packaging_Workshop/NDisplay/Saved/NDC_DualPC_CustomEE58CBD3463D22B959320B82343D0EF6.tmp' to '../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualPC_Custom.uasset'
+[2021.08.26-20.14.22:573][640]AssetCheck: New page: Asset Save: NDC_DualPC_Custom
+[2021.08.26-20.14.22:573][640]LogContentValidation: Display: Validating DisplayClusterBlueprint /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom
+[2021.08.26-20.14.30:122][845]LogDisplayClusterConfiguration: Configuration data has been successfully saved to file: ../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualPC_Custom.ndisplay
+[2021.08.26-20.14.30:123][845]DisplayClusterConfiguratorLog: Successfully exported config with the path: ../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualPC_Custom.ndisplay
+[2021.08.26-20.14.33:681][ 74]LogDisplayClusterConfiguration: Configuration data has been successfully saved to file: ../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualPC_Custom.ndisplay
+[2021.08.26-20.14.33:681][ 74]DisplayClusterConfiguratorLog: Successfully exported config with the path: ../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualPC_Custom.ndisplay
+[2021.08.26-20.14.33:704][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleConfigs/NDC_DualPC_Custom" FILE="../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualPC_Custom.uasset" SILENT=true
+[2021.08.26-20.14.33:711][ 74]LogSavePackage: Moving '../../../../../Github/Packaging_Workshop/NDisplay/Saved/NDC_DualPC_Custom29C9AD0346F24BECAF9A97B77DD1A231.tmp' to '../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualPC_Custom.uasset'
+[2021.08.26-20.14.33:723][ 74]AssetCheck: New page: Asset Save: NDC_DualPC_Custom
+[2021.08.26-20.14.33:723][ 74]LogContentValidation: Display: Validating DisplayClusterBlueprint /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom
+[2021.08.26-20.14.36:670][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NDisplay" FILE="../../../../../Github/Packaging_Workshop/NDisplay/Content/Maps/NDisplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.26-20.14.36:692][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.08.26-20.14.36:705][296]LogSavePackage: Moving '../../../../../Github/Packaging_Workshop/NDisplay/Saved/NDisplay9E6A3E3F4CE98083EF2F40A8C1A7642E.tmp' to '../../../../../Github/Packaging_Workshop/NDisplay/Content/Maps/NDisplay.umap'
+[2021.08.26-20.14.36:722][296]AssetCheck: New page: Asset Save: NDisplay
+[2021.08.26-20.14.36:722][296]LogContentValidation: Display: Validating World /Game/Maps/NDisplay.NDisplay
