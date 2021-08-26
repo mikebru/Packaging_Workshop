@@ -1066,3 +1066,298 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.26-19.51.45:450][879]LogContentValidation: Display: Validating World /Game/Maps/NDisplay.NDisplay
 [2021.08.26-19.51.47:165][ 80]LogSwitchboardPlugin: Display: Successfully started Switchboard from D:/Games/UE_4.27/Engine/Plugins/VirtualProduction/Switchboard/Source/Switchboard
 [2021.08.26-19.51.59:722][339]LogSwitchboardPlugin: Display: Successfully started SwitchboardListener
+[2021.08.26-19.58.35:004][103]LogRenderer: Reallocating scene render targets to support 1712x964 Format 10 NumSamples 1 (Frame:13896).
+[2021.08.26-19.58.35:177][103]LogRenderer: Reallocating scene render targets to support 2568x1448 Format 10 NumSamples 1 (Frame:13900).
+[2021.08.26-19.58.35:201][103]LogRenderer: Reallocating scene render targets to support 2576x1500 Format 10 NumSamples 1 (Frame:13901).
+[2021.08.26-19.59.41:886][348]LogEditorViewport: Clicking on Actor (LMB): NDC_DualPC_Custom_C (NDC_DualPC_Custom)
+[2021.08.26-19.59.43:480][524]LogAssetEditorSubsystem: Opening Asset editor for DisplayClusterBlueprint /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom
+[2021.08.26-19.59.43:657][524]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.08.26-19.59.44:328][524]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.08.26-19.59.44:334][524]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2021.08.26-19.59.44:392][524]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.08.26-19.59.44:735][524]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_Left'
+[2021.08.26-19.59.44:735][524]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_Right'
+[2021.08.26-19.59.44:735][524]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0'
+[2021.08.26-19.59.44:735][524]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_Left'
+[2021.08.26-19.59.44:735][524]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_Left
+[2021.08.26-19.59.44:735][524]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_Right'
+[2021.08.26-19.59.44:735][524]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_Right
+[2021.08.26-19.59.44:735][524]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0'
+[2021.08.26-19.59.44:735][524]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0
+[2021.08.26-19.59.44:735][524]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue
+	NDC_DualPC_Custom_C /Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0
+	Function /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom_C:ExecuteUbergraph_NDC_DualPC_Custom:0056
+[2021.08.26-19.59.44:735][524]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	NDC_DualPC_Custom_C /Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0
+	Function /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom_C:ExecuteUbergraph_NDC_DualPC_Custom:00D8
+[2021.08.26-19.59.44:739][524]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.26-19.59.44:808][525]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue
+	NDC_DualPC_Custom_C /Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0
+	Function /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom_C:ExecuteUbergraph_NDC_DualPC_Custom:0056
+[2021.08.26-19.59.44:808][525]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	NDC_DualPC_Custom_C /Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0
+	Function /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom_C:ExecuteUbergraph_NDC_DualPC_Custom:00D8
+[2021.08.26-19.59.44:812][525]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.26-19.59.44:824][526]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue
+	NDC_DualPC_Custom_C /Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0
+	Function /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom_C:ExecuteUbergraph_NDC_DualPC_Custom:0056
+[2021.08.26-19.59.44:824][526]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	NDC_DualPC_Custom_C /Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0
+	Function /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom_C:ExecuteUbergraph_NDC_DualPC_Custom:00D8
+[2021.08.26-19.59.44:843][527]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue
+	NDC_DualPC_Custom_C /Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0
+	Function /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom_C:ExecuteUbergraph_NDC_DualPC_Custom:0056
+[2021.08.26-19.59.44:843][527]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	NDC_DualPC_Custom_C /Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0
+	Function /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom_C:ExecuteUbergraph_NDC_DualPC_Custom:00D8
+[2021.08.26-19.59.44:852][528]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue
+	NDC_DualPC_Custom_C /Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0
+	Function /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom_C:ExecuteUbergraph_NDC_DualPC_Custom:0056
+[2021.08.26-19.59.44:852][528]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	NDC_DualPC_Custom_C /Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0
+	Function /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom_C:ExecuteUbergraph_NDC_DualPC_Custom:00D8
+[2021.08.26-19.59.44:875][529]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue
+	NDC_DualPC_Custom_C /Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0
+	Function /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom_C:ExecuteUbergraph_NDC_DualPC_Custom:0056
+[2021.08.26-19.59.44:875][529]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	NDC_DualPC_Custom_C /Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0
+	Function /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom_C:ExecuteUbergraph_NDC_DualPC_Custom:00D8
+[2021.08.26-19.59.44:885][530]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue
+	NDC_DualPC_Custom_C /Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0
+	Function /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom_C:ExecuteUbergraph_NDC_DualPC_Custom:0056
+[2021.08.26-19.59.44:885][530]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	NDC_DualPC_Custom_C /Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0
+	Function /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom_C:ExecuteUbergraph_NDC_DualPC_Custom:00D8
+[2021.08.26-19.59.44:897][531]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerPawn_ReturnValue
+	NDC_DualPC_Custom_C /Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0
+	Function /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom_C:ExecuteUbergraph_NDC_DualPC_Custom:0056
+[2021.08.26-19.59.44:897][531]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCameraManager_ReturnValue
+	NDC_DualPC_Custom_C /Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0
+	Function /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom_C:ExecuteUbergraph_NDC_DualPC_Custom:00D8
+[2021.08.26-20.01.45:619][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.08.26-20.01.45:622][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NDisplay" FILE="../../../../../Github/Packaging_Workshop/NDisplay/Saved/Autosaves/Game/Maps/NDisplay_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.08.26-20.01.45:632][407]LogSavePackage: Moving '../../../../../Github/Packaging_Workshop/NDisplay/Saved/NDisplay_Auto14B40A02F42DE15ED55FC69B32F45ADAD.tmp' to '../../../../../Github/Packaging_Workshop/NDisplay/Saved/Autosaves/Game/Maps/NDisplay_Auto1.umap'
+[2021.08.26-20.01.45:632][407]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/NDisplay' took 0.058
+[2021.08.26-20.01.45:632][407]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2021.08.26-20.02.24:910][119]LogEditorViewport: Clicking on Component (LMB): DisplayClusterXformComponent (nDisplayXform)
+[2021.08.26-20.03.25:856][638]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_1
+[2021.08.26-20.03.25:856][638]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_1
+[2021.08.26-20.03.25:856][638]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_1
+[2021.08.26-20.03.33:008][237]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.03.33:008][237]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.03.33:008][237]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0_1
+[2021.08.26-20.03.33:010][237]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.03.33:010][237]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.03.33:010][237]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0_1
+[2021.08.26-20.03.33:025][237]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationViewport_0
+[2021.08.26-20.03.33:025][237]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0
+[2021.08.26-20.03.33:025][237]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationViewport_1
+[2021.08.26-20.03.33:025][237]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_1
+[2021.08.26-20.03.33:025][237]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_1
+[2021.08.26-20.03.33:025][237]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_1
+[2021.08.26-20.03.33:025][237]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.33:025][237]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.33:026][237]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.39:632][770]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.03.39:632][770]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.03.39:632][770]LogDisplayClusterProjectionSimple: Error: No screen ID specified for projection policy of viewport 'VP_0_1'
+[2021.08.26-20.03.39:633][770]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.03.39:633][770]LogDisplayClusterProjectionSimple: Error: No screen ID specified for projection policy of viewport 'VP_0_1'
+[2021.08.26-20.03.39:633][770]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.03.39:633][770]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.03.39:634][770]LogDisplayClusterProjectionSimple: Error: No screen ID specified for projection policy of viewport 'VP_0_1'
+[2021.08.26-20.03.39:634][770]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.03.39:634][770]LogDisplayClusterProjectionSimple: Error: No screen ID specified for projection policy of viewport 'VP_0_1'
+[2021.08.26-20.03.39:635][770]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.39:635][770]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.39:635][770]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.39:640][770]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.03.39:640][770]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.03.39:641][770]LogDisplayClusterProjectionSimple: Error: No screen ID specified for projection policy of viewport 'VP_0_1'
+[2021.08.26-20.03.39:641][770]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.03.39:641][770]LogDisplayClusterProjectionSimple: Error: No screen ID specified for projection policy of viewport 'VP_0_1'
+[2021.08.26-20.03.39:642][770]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.03.39:642][770]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.03.39:642][770]LogDisplayClusterProjectionSimple: Error: No screen ID specified for projection policy of viewport 'VP_0_1'
+[2021.08.26-20.03.39:643][770]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.03.39:643][770]LogDisplayClusterProjectionSimple: Error: No screen ID specified for projection policy of viewport 'VP_0_1'
+[2021.08.26-20.03.39:644][770]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.39:644][770]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.39:644][770]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.39:649][770]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.03.39:649][770]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.03.39:649][770]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0_1
+[2021.08.26-20.03.39:649][770]LogDisplayClusterProjectionSimple: Warning: Couldn't initialize screen component
+[2021.08.26-20.03.39:649][770]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.03.39:649][770]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0_1
+[2021.08.26-20.03.39:649][770]LogDisplayClusterProjectionSimple: Warning: Couldn't initialize screen component
+[2021.08.26-20.03.39:650][770]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.03.39:650][770]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.03.39:650][770]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0_1
+[2021.08.26-20.03.39:650][770]LogDisplayClusterProjectionSimple: Warning: Couldn't initialize screen component
+[2021.08.26-20.03.39:651][770]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.03.39:651][770]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0_1
+[2021.08.26-20.03.39:651][770]LogDisplayClusterProjectionSimple: Warning: Couldn't initialize screen component
+[2021.08.26-20.03.39:652][770]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.39:652][770]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.39:652][770]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.39:657][770]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.03.39:657][770]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.03.39:657][770]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0_1
+[2021.08.26-20.03.39:658][770]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.03.39:658][770]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.03.39:658][770]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0_1
+[2021.08.26-20.03.39:660][770]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.39:660][770]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.39:660][770]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.42:902][996]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.42:902][996]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.42:902][996]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.47:443][215]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.47:443][215]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.47:443][215]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.49:820][410]LogEditorTransaction: Undo Edit H
+[2021.08.26-20.03.49:845][410]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NDisplay.NDisplay:PersistentLevel.NDC_DualPC_Custom_2.Node_1_VP_0_1) Component already registered.
+[2021.08.26-20.03.49:850][410]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0.Node_0_VP_Right) Component already registered.
+[2021.08.26-20.03.49:851][410]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0.Node_1_VP_0) Component already registered.
+[2021.08.26-20.03.49:851][410]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0.Node_1_VP_0_1) Component already registered.
+[2021.08.26-20.03.49:857][410]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.49:857][410]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.49:857][410]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.51:142][484]LogEditorTransaction: Undo Edit W
+[2021.08.26-20.03.51:167][484]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NDisplay.NDisplay:PersistentLevel.NDC_DualPC_Custom_2.Node_1_VP_0_1) Component already registered.
+[2021.08.26-20.03.51:172][484]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0.Node_0_VP_Right) Component already registered.
+[2021.08.26-20.03.51:172][484]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0.Node_1_VP_0) Component already registered.
+[2021.08.26-20.03.51:173][484]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0.Node_1_VP_0_1) Component already registered.
+[2021.08.26-20.03.51:179][484]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.51:179][484]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.51:179][484]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.56:056][902]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.56:056][902]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.56:056][902]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.58:906][186]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.58:906][186]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.03.58:906][186]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.03:332][625]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0
+[2021.08.26-20.04.03:332][625]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0
+[2021.08.26-20.04.03:332][625]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0
+[2021.08.26-20.04.07:614][988]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.07:614][988]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.07:614][988]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.12:151][307]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.12:151][307]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.12:151][307]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.14:376][462]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.14:376][462]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.14:376][462]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.16:718][681]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.16:718][681]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.16:718][681]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.30:972][764]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.30:972][764]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.30:972][764]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.37:345][276]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.04.37:345][276]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.04.37:345][276]LogDisplayClusterProjectionSimple: Error: No screen ID specified for projection policy of viewport 'VP_0_1'
+[2021.08.26-20.04.37:346][276]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.04.37:346][276]LogDisplayClusterProjectionSimple: Error: No screen ID specified for projection policy of viewport 'VP_0_1'
+[2021.08.26-20.04.37:347][276]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.04.37:347][276]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.04.37:347][276]LogDisplayClusterProjectionSimple: Error: No screen ID specified for projection policy of viewport 'VP_0_1'
+[2021.08.26-20.04.37:347][276]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.04.37:347][276]LogDisplayClusterProjectionSimple: Error: No screen ID specified for projection policy of viewport 'VP_0_1'
+[2021.08.26-20.04.37:349][276]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.37:349][276]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.37:349][276]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.37:353][276]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.04.37:353][276]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.04.37:353][276]LogDisplayClusterProjectionSimple: Error: No screen ID specified for projection policy of viewport 'VP_0_1'
+[2021.08.26-20.04.37:354][276]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.04.37:354][276]LogDisplayClusterProjectionSimple: Error: No screen ID specified for projection policy of viewport 'VP_0_1'
+[2021.08.26-20.04.37:355][276]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.04.37:355][276]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.04.37:355][276]LogDisplayClusterProjectionSimple: Error: No screen ID specified for projection policy of viewport 'VP_0_1'
+[2021.08.26-20.04.37:355][276]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.04.37:355][276]LogDisplayClusterProjectionSimple: Error: No screen ID specified for projection policy of viewport 'VP_0_1'
+[2021.08.26-20.04.37:357][276]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.37:357][276]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.37:357][276]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.37:362][276]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.04.37:362][276]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.04.37:362][276]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0_1
+[2021.08.26-20.04.37:362][276]LogDisplayClusterProjectionSimple: Warning: Couldn't initialize screen component
+[2021.08.26-20.04.37:362][276]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.04.37:362][276]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0_1
+[2021.08.26-20.04.37:362][276]LogDisplayClusterProjectionSimple: Warning: Couldn't initialize screen component
+[2021.08.26-20.04.37:363][276]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.04.37:363][276]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.04.37:363][276]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0_1
+[2021.08.26-20.04.37:363][276]LogDisplayClusterProjectionSimple: Warning: Couldn't initialize screen component
+[2021.08.26-20.04.37:364][276]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.04.37:364][276]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0_1
+[2021.08.26-20.04.37:364][276]LogDisplayClusterProjectionSimple: Warning: Couldn't initialize screen component
+[2021.08.26-20.04.37:365][276]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.37:365][276]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.37:365][276]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.37:370][276]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.04.37:370][276]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.04.37:370][276]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0_1
+[2021.08.26-20.04.37:371][276]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0_1'
+[2021.08.26-20.04.37:371][276]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0_1'
+[2021.08.26-20.04.37:371][276]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0_1
+[2021.08.26-20.04.37:373][276]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.37:373][276]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.37:373][276]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_0_1
+[2021.08.26-20.04.50:283][279]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_1'
+[2021.08.26-20.04.50:283][279]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_1'
+[2021.08.26-20.04.50:283][279]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_1
+[2021.08.26-20.04.50:284][279]LogActorComponent: UnregisterComponent: (/Game/Maps/NDisplay.NDisplay:PersistentLevel.NDC_DualPC_Custom_2.Node_1_VP_0_1) Not registered. Aborting.
+[2021.08.26-20.04.50:285][279]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_1'
+[2021.08.26-20.04.50:285][279]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_1'
+[2021.08.26-20.04.50:285][279]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_1
+[2021.08.26-20.04.50:285][279]LogActorComponent: UnregisterComponent: (/Engine/Transient.World_1:PersistentLevel.NDC_DualPC_Custom_C_0.Node_1_VP_0_1) Not registered. Aborting.
+[2021.08.26-20.04.50:289][279]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: DisplayClusterConfigurationViewport_2
+[2021.08.26-20.04.50:289][279]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_1
+[2021.08.26-20.04.50:289][279]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_1
+[2021.08.26-20.04.50:289][279]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: Node_1
+[2021.08.26-20.04.50:289][279]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_1
+[2021.08.26-20.04.50:289][279]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_1
+[2021.08.26-20.04.50:289][279]LogDisplayClusterMultiUser: FDisplayClusterMultiUser transaction for object: VP_1
+[2021.08.26-20.04.52:091][404]BlueprintLog: New page: Compile NDC_DualPC_Custom
+[2021.08.26-20.04.52:182][404]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.08.26-20.04.52:193][404]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_Left'
+[2021.08.26-20.04.52:193][404]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_Right'
+[2021.08.26-20.04.52:193][404]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0'
+[2021.08.26-20.04.52:193][404]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_1'
+[2021.08.26-20.04.52:194][404]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_Left'
+[2021.08.26-20.04.52:194][404]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_Right'
+[2021.08.26-20.04.52:194][404]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_0'
+[2021.08.26-20.04.52:194][404]LogDisplayClusterProjectionSimple: Instantiating projection policy <simple> id='proj_VP_1'
+[2021.08.26-20.04.52:212][404]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_Left'
+[2021.08.26-20.04.52:212][404]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_Left
+[2021.08.26-20.04.52:212][404]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_Right'
+[2021.08.26-20.04.52:212][404]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_Right
+[2021.08.26-20.04.52:212][404]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0'
+[2021.08.26-20.04.52:212][404]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0
+[2021.08.26-20.04.52:212][404]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_1'
+[2021.08.26-20.04.52:212][404]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_1
+[2021.08.26-20.04.52:212][404]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_Left'
+[2021.08.26-20.04.52:212][404]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_Left
+[2021.08.26-20.04.52:212][404]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_Right'
+[2021.08.26-20.04.52:212][404]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_Right
+[2021.08.26-20.04.52:212][404]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_0'
+[2021.08.26-20.04.52:212][404]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_0
+[2021.08.26-20.04.52:212][404]LogDisplayClusterProjectionSimple: Initializing internals for the viewport 'VP_1'
+[2021.08.26-20.04.52:212][404]LogDisplayClusterProjectionSimple: Initializing screen geometry for viewport policy  proj_VP_1
+[2021.08.26-20.04.52:235][404]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.26-20.04.52:822][448]LogDisplayClusterConfiguration: Configuration data has been successfully saved to file: ../../../../../Documents/Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualPC_Custom.ndisplay
+[2021.08.26-20.04.52:823][448]DisplayClusterConfiguratorLog: Successfully exported config with the path: ../../../../../Documents/Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualPC_Custom.ndisplay
+[2021.08.26-20.04.52:833][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleConfigs/NDC_DualPC_Custom" FILE="../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualPC_Custom.uasset" SILENT=true
+[2021.08.26-20.04.52:840][448]LogSavePackage: Moving '../../../../../Github/Packaging_Workshop/NDisplay/Saved/NDC_DualPC_CustomAD1A0AFA4BF4DEDC4DBB45A42D5EE7D7.tmp' to '../../../../../Github/Packaging_Workshop/NDisplay/Content/ExampleConfigs/NDC_DualPC_Custom.uasset'
+[2021.08.26-20.04.52:853][448]AssetCheck: New page: Asset Save: NDC_DualPC_Custom
+[2021.08.26-20.04.52:853][448]LogContentValidation: Display: Validating DisplayClusterBlueprint /Game/ExampleConfigs/NDC_DualPC_Custom.NDC_DualPC_Custom
+[2021.08.26-20.04.57:268][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NDisplay" FILE="../../../../../Github/Packaging_Workshop/NDisplay/Content/Maps/NDisplay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.26-20.04.57:288][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.08.26-20.04.57:302][800]LogSavePackage: Moving '../../../../../Github/Packaging_Workshop/NDisplay/Saved/NDisplayDE79A18447EE91350801818F4AF92602.tmp' to '../../../../../Github/Packaging_Workshop/NDisplay/Content/Maps/NDisplay.umap'
+[2021.08.26-20.04.57:320][800]AssetCheck: New page: Asset Save: NDisplay
+[2021.08.26-20.04.57:320][800]LogContentValidation: Display: Validating World /Game/Maps/NDisplay.NDisplay
