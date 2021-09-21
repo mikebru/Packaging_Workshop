@@ -20,14 +20,26 @@
 			]
 		},
 		{
-			"Name": "SteamVR",
-			"Enabled": false,
+			"Name": "Switchboard",
+			"Enabled": true
+		},
+		{
+			"Name": "VirtualCamera",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkXR",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkOverNDisplay",
+			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
 		},
 		{
-			"Name": "Switchboard",
+			"Name": "LiveLinkFreeD",
 			"Enabled": true
 		}
 	],
